@@ -1,7 +1,15 @@
+body {
+    overflow-x: hidden; /* Hide scrollbars */
+  }
+
 .row{
     justify-content: center;
 }
 
 .btt{
     text-align: right;
+}
+
+h6{
+    color: #757575;
 }
